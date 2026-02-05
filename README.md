@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Java, web development, and beginner-friendly open-source projects.
 - 🤔 I’m looking for help with improving DSA and backend optimization.
 - 💬 Ask me about Java, HTML, CSS, JavaScript, and GitHub basics.
-- 📫 How to reach me: adithikotiyan@gmail.com | LinkedIn: adithi-bhaskar
+- 📫 How to reach me: adithikotiyan@gmail.com | LinkedIn: www.linkedin.com/in/adithi-bhaskar-78433825b
